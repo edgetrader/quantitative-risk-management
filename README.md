@@ -1,4 +1,4 @@
-# Quantitative Risk Management
+# Portfolio risk analysis under extreme market conditions
 
 ## Summary
 This analysis explores risk measures like VaR and CVar under different returns distribution regime especially during extreme market conditions like the Covid-19 pandemic crisis.
